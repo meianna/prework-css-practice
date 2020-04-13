@@ -1,0 +1,49 @@
+          .center {
+            text-align: center;
+          }
+        
+          .red {
+            color: red;
+          }
+
+          .blue {
+            color: blue;
+          }
+      
+          .green {
+            color: green;
+          }
+
+          .x-large {
+            font-size: x-large;
+          }
+      
+          .x-small {
+            font-size: x-small;
+          }
+      
+          .bold {
+            font-weight: bold;
+          }
+
+          .courier {
+            font-family: 'Courier New', Courier, monospace;
+          }
+
+          .multiple {
+            color: orange;
+            font-size: x-large;
+            font-weight: bold;
+         }   
+
+          .styledFont {
+            color: blueviolet;
+            font-family: cursive;
+            font-weight: lighter;
+          } 
+
+          #styledImage {
+            border-width: thick;
+            color: salmon;
+            border-style: dashed;              
+          }
